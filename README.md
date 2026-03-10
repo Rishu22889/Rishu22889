@@ -106,6 +106,8 @@ FAISS • REST APIs • Web Scraping • ETL Pipelines
 
 <img src="https://streak-stats.demolab.com/?user=Rishu22889&theme=radical" />
 
+<img src="https://github.com/Rishu22889/Rishu22889/blob/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 ---
