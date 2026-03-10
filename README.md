@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Rishi</h1>
+<h1 align="center">Hi 👋 I'm Risu Raj</h1>
 
 <p align="center">
 🎓 Student at <b>IIT ISM Dhanbad</b><br>
