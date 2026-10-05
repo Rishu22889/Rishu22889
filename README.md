@@ -8,14 +8,20 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rishu22889&show_icons=true&count_private=true&theme=tokyonight"
+    alt="Rishu's GitHub Stats"
+  />
+</p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rishu22889&show_icons=true&count_private=true" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rishu22889&layout=compact" />
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu22889&layout=compact&theme=tokyonight"
+    alt="Rishu's Top Languages"
+  />
 <img src="https://streak-stats.demolab.com/?user=Rishu22889&theme=radical" />
 
 </p>
