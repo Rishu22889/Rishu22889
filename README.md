@@ -22,8 +22,13 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu22889&layout=compact&theme=tokyonight"
     alt="Rishu's Top Languages"
   />
-<img src="https://streak-stats.demolab.com/?user=Rishu22889&theme=radical" />
+</p>
 
+<p align="center">
+<img
+  src="https://streak-stats.demolab.com/?user=Rishu22889&layout=compact&theme=tokyonight"
+  alt="Rishu's Top Languages"
+/>
 </p>
 
 ---
